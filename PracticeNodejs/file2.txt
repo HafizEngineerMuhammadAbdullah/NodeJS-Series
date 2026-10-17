@@ -1,0 +1,2 @@
+Hello World from Sync Write File
+Hello World
